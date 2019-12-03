@@ -51,7 +51,6 @@ public class buttonPanel extends JPanel {
     private JRadioButton importButton = new JRadioButton("Поиск записей импорта по дате");
 
     private JRadioButton exportButton = new JRadioButton("Поиск записей экспорта по дате");
-   // private JRadioButton trafficButton = new JRadioButton("Все записи импорта и экспорта");
     private JRadioButton ordersBuyerButton = new JRadioButton("Поиск заказов покупателя (введите код покупателя)");
     private JRadioButton ordersSupplierButton = new JRadioButton("Поиск заказов поставщика (введите код поставщика)");
     private JRadioButton topImportButton = new JRadioButton("Популярные товары импорта");
